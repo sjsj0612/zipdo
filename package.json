@@ -17,6 +17,7 @@
     "@storybook/react-native": "^5.3.25",
     "@types/react-native-star-rating": "^1.1.2",
     "@types/react-native-vector-icons": "^6.4.10",
+    "@types/styled-components": "^5.1.15",
     "appcenter": "4.3.0",
     "appcenter-analytics": "4.3.0",
     "appcenter-crashes": "4.3.0",
@@ -25,11 +26,13 @@
     "react": "17.0.2",
     "react-native": "0.66.3",
     "react-native-gesture-handler": "^1.10.3",
+    "react-native-plotly": "^5.0.0",
     "react-native-reanimated": "^2.2.4",
     "react-native-safe-area-context": "^3.3.2",
     "react-native-screens": "^3.9.0",
     "react-native-star-rating": "^1.1.0",
-    "react-native-vector-icons": "^9.0.0"
+    "react-native-vector-icons": "^9.0.0",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",

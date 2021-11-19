@@ -16,3 +16,6 @@ export {default as SectionPartitionBar} from './SectionPartitionBar';
 export {default as SectionPartitionLine} from './SectionPartitionLine';
 export {default as ReadMore} from './ReadMore';
 export {default as SpeechBubble} from './SpeechBubble';
+export {default as MyStatus} from './MyStatus';
+export {default as RadarChart} from './RadarChart';
+export {default as IconButton} from './IconButton';
